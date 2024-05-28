@@ -9,6 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactCenter.DataModels", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContactCenter.IntentLookup.cs", "ContactCenter.IntentLookup.cs\ContactCenter.IntentLookup.cs.csproj", "{2DF9B842-11C1-4643-BB48-383E3CF9AF32}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7A656A88-9855-43AD-9AAB-84778A55EDBB}"
+	ProjectSection(SolutionItems) = preProject
+		..\Sample Arch Diagram.jpg = ..\Sample Arch Diagram.jpg
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
