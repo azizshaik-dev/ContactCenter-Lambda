@@ -1,0 +1,237 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Intervision_Sample\\ContactCenter\\ContactCenter.IntentLookup.cs\\ContactCenter.IntentLookup.cs.csproj": {}
+  },
+  "projects": {
+    "E:\\Intervision_Sample\\ContactCenter\\ContactCenter.DataLookup\\ContactCenter.DataLookup.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Intervision_Sample\\ContactCenter\\ContactCenter.DataLookup\\ContactCenter.DataLookup.csproj",
+        "projectName": "ContactCenter.DataLookup",
+        "projectPath": "E:\\Intervision_Sample\\ContactCenter\\ContactCenter.DataLookup\\ContactCenter.DataLookup.csproj",
+        "packagesPath": "C:\\Users\\aziz_\\.nuget\\packages\\",
+        "outputPath": "E:\\Intervision_Sample\\ContactCenter\\ContactCenter.DataLookup\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aziz_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AWSSDK.DynamoDBv2": {
+              "target": "Package",
+              "version": "[3.7.303.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Intervision_Sample\\ContactCenter\\ContactCenter.DataModels\\ContactCenter.DataModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Intervision_Sample\\ContactCenter\\ContactCenter.DataModels\\ContactCenter.DataModels.csproj",
+        "projectName": "ContactCenter.DataModels",
+        "projectPath": "E:\\Intervision_Sample\\ContactCenter\\ContactCenter.DataModels\\ContactCenter.DataModels.csproj",
+        "packagesPath": "C:\\Users\\aziz_\\.nuget\\packages\\",
+        "outputPath": "E:\\Intervision_Sample\\ContactCenter\\ContactCenter.DataModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aziz_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Intervision_Sample\\ContactCenter\\ContactCenter.IntentLookup.cs\\ContactCenter.IntentLookup.cs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Intervision_Sample\\ContactCenter\\ContactCenter.IntentLookup.cs\\ContactCenter.IntentLookup.cs.csproj",
+        "projectName": "ContactCenter.IntentLookup.cs",
+        "projectPath": "E:\\Intervision_Sample\\ContactCenter\\ContactCenter.IntentLookup.cs\\ContactCenter.IntentLookup.cs.csproj",
+        "packagesPath": "C:\\Users\\aziz_\\.nuget\\packages\\",
+        "outputPath": "E:\\Intervision_Sample\\ContactCenter\\ContactCenter.IntentLookup.cs\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aziz_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\Intervision_Sample\\ContactCenter\\ContactCenter.DataLookup\\ContactCenter.DataLookup.csproj": {
+                "projectPath": "E:\\Intervision_Sample\\ContactCenter\\ContactCenter.DataLookup\\ContactCenter.DataLookup.csproj"
+              },
+              "E:\\Intervision_Sample\\ContactCenter\\ContactCenter.DataModels\\ContactCenter.DataModels.csproj": {
+                "projectPath": "E:\\Intervision_Sample\\ContactCenter\\ContactCenter.DataModels\\ContactCenter.DataModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AWSSDK.DynamoDBv2": {
+              "target": "Package",
+              "version": "[3.7.303.12, )"
+            },
+            "Amazon.Lambda.ConnectEvents": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Amazon.Lambda.Core": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Amazon.Lambda.Serialization.SystemTextJson": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Crossgen2.win-x64",
+              "version": "[8.0.4, 8.0.4]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
