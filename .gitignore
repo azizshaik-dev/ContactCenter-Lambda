@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ContactCenter/FileContentIndex/2fd2ff1c-3f11-488d-9784-5e696898ea33.vsidx
+/.vs/ContactCenter/FileContentIndex/37eefa53-1dc0-41a4-a0ab-61bd01e22f18.vsidx
+/.vs/ContactCenter/FileContentIndex/3ab01525-e02d-4db5-a791-f150eec15f28.vsidx
+/.vs/ContactCenter/FileContentIndex/5038f013-39fc-4f64-8fd2-e0b51c8ab5f3.vsidx
+/.vs/ContactCenter/FileContentIndex/ef38ab11-af4f-4630-b4ce-353a050ded09.vsidx
+/.vs/ContactCenter/DesignTimeBuild/.dtbcache.v2
+/.vs/ProjectEvaluation/contactcenter.metadata.v7.bin
+/.vs/ProjectEvaluation/contactcenter.projects.v7.bin
+/.vs/ContactCenter/FileContentIndex
+/.vs/ContactCenter/v17
+/ContactCenter.DataLookup/obj/Debug/net8.0
+/ContactCenter.DataLookup/obj
