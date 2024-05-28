@@ -2,7 +2,7 @@
 
 Introduction
 
-This architecture diagram illustrates the design of a contact center tailored for an insurance company using AWS services. It supports various communication channels and ensures secure, efficient, and scalable handling of customer interactions.
+This architecture diagram illustrates the design of a contact center tailored for an insurance company using AWS services. It supports various communication channels and ensures secure, efficient, and scalable handling of customer interactions. Callers are categorized into two groups: members and providers. Members call in to make changes to their insurance policies, such as adding new members, making payments, or asking questions about claims. Providers call in to submit claims or make other inquiries about members and services provided. Members and providers are authenticated when they provide their information to an IVR bot. Any escalated calls are sent to an agent queue staffed with agents who handle escalated calls.
 
 * Key Components and Flow
 * Users:
