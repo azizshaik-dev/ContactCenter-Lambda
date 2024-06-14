@@ -1,28 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Intervision_Sample\\ContactCenter\\ContactCenter.DataModels\\ContactCenter.DataModels.csproj": {}
+    "E:\\TestUseCase\\ContactCenter.DataModels\\ContactCenter.DataModels.csproj": {}
   },
   "projects": {
-    "E:\\Intervision_Sample\\ContactCenter\\ContactCenter.DataModels\\ContactCenter.DataModels.csproj": {
+    "E:\\TestUseCase\\ContactCenter.DataModels\\ContactCenter.DataModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Intervision_Sample\\ContactCenter\\ContactCenter.DataModels\\ContactCenter.DataModels.csproj",
+        "projectUniqueName": "E:\\TestUseCase\\ContactCenter.DataModels\\ContactCenter.DataModels.csproj",
         "projectName": "ContactCenter.DataModels",
-        "projectPath": "E:\\Intervision_Sample\\ContactCenter\\ContactCenter.DataModels\\ContactCenter.DataModels.csproj",
-        "packagesPath": "C:\\Users\\aziz_\\.nuget\\packages\\",
-        "outputPath": "E:\\Intervision_Sample\\ContactCenter\\ContactCenter.DataModels\\obj\\",
+        "projectPath": "E:\\TestUseCase\\ContactCenter.DataModels\\ContactCenter.DataModels.csproj",
+        "packagesPath": "C:\\Users\\aziz.shaik\\.nuget\\packages\\",
+        "outputPath": "E:\\TestUseCase\\ContactCenter.DataModels\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\aziz_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\aziz.shaik\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://artifactory.global.dish.com/artifactory/api/nuget/nuget-virtual": {}
         },
         "frameworks": {
           "net8.0": {

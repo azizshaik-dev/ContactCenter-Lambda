@@ -530,37 +530,36 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\aziz_\\.nuget\\packages\\": {}
+    "C:\\Users\\aziz.shaik\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Intervision_Sample\\ContactCenter\\ContactCenter.IntentLookup.cs\\ContactCenter.IntentLookup.cs.csproj",
-      "projectName": "ContactCenter.IntentLookup.cs",
-      "projectPath": "E:\\Intervision_Sample\\ContactCenter\\ContactCenter.IntentLookup.cs\\ContactCenter.IntentLookup.cs.csproj",
-      "packagesPath": "C:\\Users\\aziz_\\.nuget\\packages\\",
-      "outputPath": "E:\\Intervision_Sample\\ContactCenter\\ContactCenter.IntentLookup.cs\\obj\\",
+      "projectUniqueName": "E:\\TestUseCase\\ContactCenter.IntentLookup.cs\\ContactCenter.IntentLookup.csproj",
+      "projectName": "ContactCenter.IntentLookup",
+      "projectPath": "E:\\TestUseCase\\ContactCenter.IntentLookup.cs\\ContactCenter.IntentLookup.csproj",
+      "packagesPath": "C:\\Users\\aziz.shaik\\.nuget\\packages\\",
+      "outputPath": "E:\\TestUseCase\\ContactCenter.IntentLookup.cs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\aziz_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\aziz.shaik\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://artifactory.global.dish.com/artifactory/api/nuget/nuget-virtual": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\Intervision_Sample\\ContactCenter\\ContactCenter.DataLookup\\ContactCenter.DataLookup.csproj": {
-              "projectPath": "E:\\Intervision_Sample\\ContactCenter\\ContactCenter.DataLookup\\ContactCenter.DataLookup.csproj"
+            "E:\\TestUseCase\\ContactCenter.DataLookup\\ContactCenter.DataLookup.csproj": {
+              "projectPath": "E:\\TestUseCase\\ContactCenter.DataLookup\\ContactCenter.DataLookup.csproj"
             },
-            "E:\\Intervision_Sample\\ContactCenter\\ContactCenter.DataModels\\ContactCenter.DataModels.csproj": {
-              "projectPath": "E:\\Intervision_Sample\\ContactCenter\\ContactCenter.DataModels\\ContactCenter.DataModels.csproj"
+            "E:\\TestUseCase\\ContactCenter.DataModels\\ContactCenter.DataModels.csproj": {
+              "projectPath": "E:\\TestUseCase\\ContactCenter.DataModels\\ContactCenter.DataModels.csproj"
             }
           }
         }
