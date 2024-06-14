@@ -535,11 +535,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\TestUseCase\\ContactCenter.IntentLookup.cs\\ContactCenter.IntentLookup.csproj",
+      "projectUniqueName": "E:\\TestUseCase\\ContactCenter.IntentLookup\\ContactCenter.IntentLookup.csproj",
       "projectName": "ContactCenter.IntentLookup",
-      "projectPath": "E:\\TestUseCase\\ContactCenter.IntentLookup.cs\\ContactCenter.IntentLookup.csproj",
+      "projectPath": "E:\\TestUseCase\\ContactCenter.IntentLookup\\ContactCenter.IntentLookup.csproj",
       "packagesPath": "C:\\Users\\aziz.shaik\\.nuget\\packages\\",
-      "outputPath": "E:\\TestUseCase\\ContactCenter.IntentLookup.cs\\obj\\",
+      "outputPath": "E:\\TestUseCase\\ContactCenter.IntentLookup\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aziz.shaik\\AppData\\Roaming\\NuGet\\NuGet.Config",

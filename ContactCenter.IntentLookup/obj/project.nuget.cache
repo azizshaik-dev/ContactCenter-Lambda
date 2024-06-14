@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "BtMt+sUnbu7MuJGUQaCBCM5DmEu+e6JoUa3qadGJ6h/B/wZEgwolezfI9KvkMG99GPJ+bkHMXna34nO0JBM8xA==",
+  "success": true,
+  "projectFilePath": "E:\\TestUseCase\\ContactCenter.IntentLookup\\ContactCenter.IntentLookup.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aziz.shaik\\.nuget\\packages\\amazon.lambda.connectevents\\1.1.0\\amazon.lambda.connectevents.1.1.0.nupkg.sha512",
+    "C:\\Users\\aziz.shaik\\.nuget\\packages\\amazon.lambda.core\\2.2.0\\amazon.lambda.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\aziz.shaik\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.4.1\\amazon.lambda.serialization.systemtextjson.2.4.1.nupkg.sha512",
+    "C:\\Users\\aziz.shaik\\.nuget\\packages\\awssdk.core\\3.7.304.5\\awssdk.core.3.7.304.5.nupkg.sha512",
+    "C:\\Users\\aziz.shaik\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.303.12\\awssdk.dynamodbv2.3.7.303.12.nupkg.sha512",
+    "C:\\Users\\aziz.shaik\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\aziz.shaik\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\aziz.shaik\\.nuget\\packages\\microsoft.extensions.configuration.environmentvariables\\8.0.0\\microsoft.extensions.configuration.environmentvariables.8.0.0.nupkg.sha512",
+    "C:\\Users\\aziz.shaik\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\aziz.shaik\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\aziz.shaik\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\aziz.shaik\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.4\\microsoft.netcore.app.crossgen2.win-x64.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

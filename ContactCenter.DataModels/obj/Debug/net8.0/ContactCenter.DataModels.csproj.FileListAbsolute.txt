@@ -1,0 +1,12 @@
+E:\TestUseCase\ContactCenter.DataModels\bin\Debug\net8.0\ContactCenter.DataModels.deps.json
+E:\TestUseCase\ContactCenter.DataModels\bin\Debug\net8.0\ContactCenter.DataModels.dll
+E:\TestUseCase\ContactCenter.DataModels\bin\Debug\net8.0\ContactCenter.DataModels.pdb
+E:\TestUseCase\ContactCenter.DataModels\obj\Debug\net8.0\ContactCenter.DataModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\TestUseCase\ContactCenter.DataModels\obj\Debug\net8.0\ContactCenter.DataModels.AssemblyInfoInputs.cache
+E:\TestUseCase\ContactCenter.DataModels\obj\Debug\net8.0\ContactCenter.DataModels.AssemblyInfo.cs
+E:\TestUseCase\ContactCenter.DataModels\obj\Debug\net8.0\ContactCenter.DataModels.csproj.CoreCompileInputs.cache
+E:\TestUseCase\ContactCenter.DataModels\obj\Debug\net8.0\ContactCenter.DataModels.sourcelink.json
+E:\TestUseCase\ContactCenter.DataModels\obj\Debug\net8.0\ContactCenter.DataModels.dll
+E:\TestUseCase\ContactCenter.DataModels\obj\Debug\net8.0\refint\ContactCenter.DataModels.dll
+E:\TestUseCase\ContactCenter.DataModels\obj\Debug\net8.0\ContactCenter.DataModels.pdb
+E:\TestUseCase\ContactCenter.DataModels\obj\Debug\net8.0\ref\ContactCenter.DataModels.dll

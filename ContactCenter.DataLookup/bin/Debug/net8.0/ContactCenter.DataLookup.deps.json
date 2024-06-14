@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ContactCenter.DataLookup/1.0.0": {
+        "dependencies": {
+          "AWSSDK.DynamoDBv2": "3.7.303.12"
+        },
+        "runtime": {
+          "ContactCenter.DataLookup.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.7.304.5": {
+        "runtime": {
+          "lib/net8.0/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.304.5"
+          }
+        }
+      },
+      "AWSSDK.DynamoDBv2/3.7.303.12": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.304.5"
+        },
+        "runtime": {
+          "lib/net8.0/AWSSDK.DynamoDBv2.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.303.12"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ContactCenter.DataLookup/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.7.304.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Tp6Bvbok1Ev55tCRlkTRzxj+QyfyXiFG3noptLtorZEF9Gn0jvdl2ixvkGGVyZFagd0kyJDdvyrfcmPvG49RwA==",
+      "path": "awssdk.core/3.7.304.5",
+      "hashPath": "awssdk.core.3.7.304.5.nupkg.sha512"
+    },
+    "AWSSDK.DynamoDBv2/3.7.303.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ibPd7lF50rJ/Lq2TAc8hsSI96zQciHf9NsGig1bdtj/LGsWnszSwz8LSHHdgg6ZxLW7LyE4HgN9Da0CzTu7ZFQ==",
+      "path": "awssdk.dynamodbv2/3.7.303.12",
+      "hashPath": "awssdk.dynamodbv2.3.7.303.12.nupkg.sha512"
+    }
+  }
+}
